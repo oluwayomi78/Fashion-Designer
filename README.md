@@ -24,7 +24,7 @@ A modern, high-fashion portfolio website built with React, TypeScript, Vite, and
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/oluwayomi78/Fashion-Designer
    ```
 
 2. Navigate into the project directory:
